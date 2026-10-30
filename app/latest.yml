@@ -1,0 +1,8 @@
+version: 0.1.0
+files:
+  - url: https://github.com/nocksa/rogue-launcher-feed/releases/download/app-0.1.0/TheRogue-Setup-0.1.0.exe
+    sha512: lmNj10PKHl1/mPiye3jUd9eid5s0aphH4s3IvtLY+DVarjWSbjCtK/CAeWdbr71CjEwtfnM2LRIF2UAV/C/0IQ==
+    size: 100579527
+path: https://github.com/nocksa/rogue-launcher-feed/releases/download/app-0.1.0/TheRogue-Setup-0.1.0.exe
+sha512: lmNj10PKHl1/mPiye3jUd9eid5s0aphH4s3IvtLY+DVarjWSbjCtK/CAeWdbr71CjEwtfnM2LRIF2UAV/C/0IQ==
+releaseDate: '2026-10-30T00:55:19.644Z'
