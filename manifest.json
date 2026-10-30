@@ -1,6 +1,6 @@
 {
  "formatVersion": 1,
- "version": "0.2.5",
+ "version": "0.2.6",
  "minecraft": "26.2",
  "loader": "0.19.3",
  "versionId": "fabric-loader-0.19.3-26.2",
@@ -35,21 +35,21 @@
   },
   {
    "file": "itemtrail-0.2.0.jar",
-   "sha1": "7fec4cf5956eead880157ede73d00b875468f10f",
-   "size": 277317,
-   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/7fec4cf595-itemtrail-0.2.0.jar"
+   "sha1": "621f8b96377594accdf2dcc358f9bc4279277946",
+   "size": 277443,
+   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/621f8b9637-itemtrail-0.2.0.jar"
   },
   {
    "file": "roguemobs-0.1.0.jar",
-   "sha1": "5ab269a068a9743210dac6d7ec052e68b33a8c44",
-   "size": 116192,
-   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/5ab269a068-roguemobs-0.1.0.jar"
+   "sha1": "ab3224ec7259356b29df2e125023ef79c3279b70",
+   "size": 116264,
+   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/ab3224ec72-roguemobs-0.1.0.jar"
   },
   {
    "file": "roguemotion-0.1.0.jar",
-   "sha1": "5ceb92ff33837b6875baf5646ed59719eeb34314",
-   "size": 95860,
-   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/5ceb92ff33-roguemotion-0.1.0.jar"
+   "sha1": "c4cb4309f653a548ddb616735fcfb8838747e468",
+   "size": 95918,
+   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/c4cb4309f6-roguemotion-0.1.0.jar"
   },
   {
    "file": "roguetopdown-0.1.0.jar",
