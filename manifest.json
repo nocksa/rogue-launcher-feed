@@ -1,6 +1,6 @@
 {
  "formatVersion": 1,
- "version": "0.2.0",
+ "version": "0.2.1",
  "minecraft": "26.2",
  "loader": "0.19.3",
  "versionId": "fabric-loader-0.19.3-26.2",
@@ -19,55 +19,55 @@
    "file": "IrisExtension-fabric-1.0.2-mc26.2.jar",
    "sha1": "cc39017546e6b9d9afdad531e44699dc96c89f07",
    "size": 101488,
-   "url": "https://cdn.modrinth.com/data/ReJLtXi4/versions/fxABOMOX/IrisExtension-fabric-1.0.2-mc26.2.jar"
+   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/cc39017546-IrisExtension-fabric-1.0.2-mc26.2.jar"
   },
   {
    "file": "fabric-api-0.157.0+26.2.jar",
    "sha1": "0deb9d110def35ebcaf5f15a9e6c8b8e85685319",
    "size": 2533297,
-   "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/vmQp7ixA/fabric-api-0.157.0%2B26.2.jar"
+   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/0deb9d110d-fabric-api-0.157.0_26.2.jar"
   },
   {
    "file": "iris-fabric-1.11.2+mc26.2.jar",
    "sha1": "f7d526b1062c4bfe2567113cf933d1de26eddd3f",
    "size": 2820763,
-   "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/oaD6KQls/iris-fabric-1.11.2%2Bmc26.2.jar"
+   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/f7d526b106-iris-fabric-1.11.2_mc26.2.jar"
   },
   {
    "file": "itemtrail-0.2.0.jar",
    "sha1": "7fec4cf5956eead880157ede73d00b875468f10f",
    "size": 277317,
-   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/pack-0.2.0/itemtrail-0.2.0.jar"
+   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/7fec4cf595-itemtrail-0.2.0.jar"
   },
   {
    "file": "roguemobs-0.1.0.jar",
    "sha1": "5ab269a068a9743210dac6d7ec052e68b33a8c44",
    "size": 116192,
-   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/pack-0.2.0/roguemobs-0.1.0.jar"
+   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/5ab269a068-roguemobs-0.1.0.jar"
   },
   {
    "file": "roguemotion-0.1.0.jar",
    "sha1": "5ceb92ff33837b6875baf5646ed59719eeb34314",
    "size": 95860,
-   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/pack-0.2.0/roguemotion-0.1.0.jar"
+   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/5ceb92ff33-roguemotion-0.1.0.jar"
   },
   {
    "file": "roguetopdown-0.1.0.jar",
    "sha1": "1664ffff6d9405ae606b69fb49eda4a8a2df75d5",
    "size": 94261,
-   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/pack-0.2.0/roguetopdown-0.1.0.jar"
+   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/1664ffff6d-roguetopdown-0.1.0.jar"
   },
   {
    "file": "rogueui-0.1.0.jar",
    "sha1": "ef56d6bfdc1faaf67864cb0e70e1e9a7dec0043e",
    "size": 19007405,
-   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/pack-0.2.0/rogueui-0.1.0.jar"
+   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/ef56d6bfdc-rogueui-0.1.0.jar"
   },
   {
    "file": "sodium-fabric-0.9.1+mc26.2.jar",
    "sha1": "14f3388694fa77f870d28262f74562de67eabcbe",
    "size": 1834384,
-   "url": "https://cdn.modrinth.com/data/AANobbMI/versions/2Yom1N68/sodium-fabric-0.9.1%2Bmc26.2.jar"
+   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/14f3388694-sodium-fabric-0.9.1_mc26.2.jar"
   }
  ]
 }

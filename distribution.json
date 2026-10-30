@@ -6,7 +6,7 @@
    "name": "녹사의 시크릿 시크릿 프로젝트 : 더로그",
    "description": "더로그",
    "icon": "https://raw.githubusercontent.com/nocksa/rogue-launcher-feed/main/images/emblem.png",
-   "version": "0.2.0",
+   "version": "0.2.1",
    "address": "sanock.skhidc.kr",
    "minecraftVersion": "26.2",
    "javaOptions": {
@@ -99,7 +99,7 @@
      ]
     },
     {
-     "id": "rogue:IrisExtension-fabric-1.0.2-mc26.2:0.2.0",
+     "id": "rogue:IrisExtension-fabric-1.0.2-mc26.2:0.2.1",
      "name": "IrisExtension-fabric-1.0.2-mc26.2.jar",
      "type": "FabricMod",
      "required": {
@@ -108,12 +108,12 @@
      "artifact": {
       "size": 101488,
       "MD5": "65e5d1033b60538da33d6348e935e697",
-      "url": "https://cdn.modrinth.com/data/ReJLtXi4/versions/fxABOMOX/IrisExtension-fabric-1.0.2-mc26.2.jar",
+      "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/cc39017546-IrisExtension-fabric-1.0.2-mc26.2.jar",
       "path": "IrisExtension-fabric-1.0.2-mc26.2.jar"
      }
     },
     {
-     "id": "rogue:fabric-api-0.157.0+26.2:0.2.0",
+     "id": "rogue:fabric-api-0.157.0+26.2:0.2.1",
      "name": "fabric-api-0.157.0+26.2.jar",
      "type": "FabricMod",
      "required": {
@@ -122,12 +122,12 @@
      "artifact": {
       "size": 2533297,
       "MD5": "a6e9a0e9daa99a48920c0f22fdccb0ac",
-      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/vmQp7ixA/fabric-api-0.157.0%2B26.2.jar",
+      "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/0deb9d110d-fabric-api-0.157.0_26.2.jar",
       "path": "fabric-api-0.157.0+26.2.jar"
      }
     },
     {
-     "id": "rogue:iris-fabric-1.11.2+mc26.2:0.2.0",
+     "id": "rogue:iris-fabric-1.11.2+mc26.2:0.2.1",
      "name": "iris-fabric-1.11.2+mc26.2.jar",
      "type": "FabricMod",
      "required": {
@@ -136,12 +136,12 @@
      "artifact": {
       "size": 2820763,
       "MD5": "11c0b0d99bf9d9cb55f9e35a2d6bb85f",
-      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/oaD6KQls/iris-fabric-1.11.2%2Bmc26.2.jar",
+      "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/f7d526b106-iris-fabric-1.11.2_mc26.2.jar",
       "path": "iris-fabric-1.11.2+mc26.2.jar"
      }
     },
     {
-     "id": "rogue:itemtrail-0.2.0:0.2.0",
+     "id": "rogue:itemtrail-0.2.0:0.2.1",
      "name": "itemtrail-0.2.0.jar",
      "type": "FabricMod",
      "required": {
@@ -150,12 +150,12 @@
      "artifact": {
       "size": 277317,
       "MD5": "220820724717c3050b5c3e88406d824b",
-      "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/pack-0.2.0/itemtrail-0.2.0.jar",
+      "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/7fec4cf595-itemtrail-0.2.0.jar",
       "path": "itemtrail-0.2.0.jar"
      }
     },
     {
-     "id": "rogue:roguemobs-0.1.0:0.2.0",
+     "id": "rogue:roguemobs-0.1.0:0.2.1",
      "name": "roguemobs-0.1.0.jar",
      "type": "FabricMod",
      "required": {
@@ -164,12 +164,12 @@
      "artifact": {
       "size": 116192,
       "MD5": "a31df203f2f320fba964f9a5a3849605",
-      "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/pack-0.2.0/roguemobs-0.1.0.jar",
+      "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/5ab269a068-roguemobs-0.1.0.jar",
       "path": "roguemobs-0.1.0.jar"
      }
     },
     {
-     "id": "rogue:roguemotion-0.1.0:0.2.0",
+     "id": "rogue:roguemotion-0.1.0:0.2.1",
      "name": "roguemotion-0.1.0.jar",
      "type": "FabricMod",
      "required": {
@@ -178,12 +178,12 @@
      "artifact": {
       "size": 95860,
       "MD5": "389f6d240ad8266269c9063cc93377fb",
-      "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/pack-0.2.0/roguemotion-0.1.0.jar",
+      "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/5ceb92ff33-roguemotion-0.1.0.jar",
       "path": "roguemotion-0.1.0.jar"
      }
     },
     {
-     "id": "rogue:roguetopdown-0.1.0:0.2.0",
+     "id": "rogue:roguetopdown-0.1.0:0.2.1",
      "name": "roguetopdown-0.1.0.jar",
      "type": "FabricMod",
      "required": {
@@ -192,12 +192,12 @@
      "artifact": {
       "size": 94261,
       "MD5": "a2ea5e12e99b06d920c3b94d9330e352",
-      "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/pack-0.2.0/roguetopdown-0.1.0.jar",
+      "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/1664ffff6d-roguetopdown-0.1.0.jar",
       "path": "roguetopdown-0.1.0.jar"
      }
     },
     {
-     "id": "rogue:rogueui-0.1.0:0.2.0",
+     "id": "rogue:rogueui-0.1.0:0.2.1",
      "name": "rogueui-0.1.0.jar",
      "type": "FabricMod",
      "required": {
@@ -206,12 +206,12 @@
      "artifact": {
       "size": 19007405,
       "MD5": "979354a944140d155b5bd9c03d9cffae",
-      "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/pack-0.2.0/rogueui-0.1.0.jar",
+      "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/ef56d6bfdc-rogueui-0.1.0.jar",
       "path": "rogueui-0.1.0.jar"
      }
     },
     {
-     "id": "rogue:sodium-fabric-0.9.1+mc26.2:0.2.0",
+     "id": "rogue:sodium-fabric-0.9.1+mc26.2:0.2.1",
      "name": "sodium-fabric-0.9.1+mc26.2.jar",
      "type": "FabricMod",
      "required": {
@@ -220,8 +220,22 @@
      "artifact": {
       "size": 1834384,
       "MD5": "12238397e6e067c00369e72999e8d163",
-      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/2Yom1N68/sodium-fabric-0.9.1%2Bmc26.2.jar",
+      "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/14f3388694-sodium-fabric-0.9.1_mc26.2.jar",
       "path": "sodium-fabric-0.9.1+mc26.2.jar"
+     }
+    },
+    {
+     "id": "rogue:craftengine-pack:8824a229e3",
+     "name": "CraftEngine 리소스팩",
+     "type": "File",
+     "required": {
+      "value": true
+     },
+     "artifact": {
+      "size": 9437591,
+      "MD5": "5d754a342cfcc97cd9af0f8f8bd8d99c",
+      "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/8824a229e3-resource_pack.zip",
+      "path": "downloads/f6e8800f-ffce-3e36-a8be-e5be152d880b/8824a229e3e52921eafc1a4453e78aae4f12d934"
      }
     }
    ]
