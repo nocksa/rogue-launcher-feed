@@ -6,7 +6,7 @@
    "name": "녹사의 시크릿 시크릿 프로젝트 : 더로그",
    "description": "더로그",
    "icon": "https://raw.githubusercontent.com/nocksa/rogue-launcher-feed/main/images/emblem.png",
-   "version": "0.2.7",
+   "version": "0.2.8",
    "address": "sanock.skhidc.kr",
    "minecraftVersion": "26.2",
    "javaOptions": {
@@ -32,7 +32,7 @@
        "type": "VersionManifest",
        "artifact": {
         "size": 2778,
-        "MD5": "bfabed5de66f1cdf473819f11b36b2c8",
+        "MD5": "67b67598739d6f0dc2af1770b67677b0",
         "url": "https://raw.githubusercontent.com/nocksa/rogue-launcher-feed/main/fabric/fabric-loader-0.19.3-26.2.json"
        }
       },
@@ -99,7 +99,7 @@
      ]
     },
     {
-     "id": "rogue:IrisExtension-fabric-1.0.2-mc26.2:0.2.7",
+     "id": "rogue:IrisExtension-fabric-1.0.2-mc26.2:0.2.8",
      "name": "IrisExtension-fabric-1.0.2-mc26.2.jar",
      "type": "FabricMod",
      "required": {
@@ -113,7 +113,7 @@
      }
     },
     {
-     "id": "rogue:fabric-api-0.157.0+26.2:0.2.7",
+     "id": "rogue:fabric-api-0.157.0+26.2:0.2.8",
      "name": "fabric-api-0.157.0+26.2.jar",
      "type": "FabricMod",
      "required": {
@@ -127,7 +127,7 @@
      }
     },
     {
-     "id": "rogue:iris-fabric-1.11.2+mc26.2:0.2.7",
+     "id": "rogue:iris-fabric-1.11.2+mc26.2:0.2.8",
      "name": "iris-fabric-1.11.2+mc26.2.jar",
      "type": "FabricMod",
      "required": {
@@ -141,7 +141,7 @@
      }
     },
     {
-     "id": "rogue:itemtrail-0.2.0:0.2.7",
+     "id": "rogue:itemtrail-0.2.0:0.2.8",
      "name": "itemtrail-0.2.0.jar",
      "type": "FabricMod",
      "required": {
@@ -155,7 +155,7 @@
      }
     },
     {
-     "id": "rogue:roguemobs-0.1.0:0.2.7",
+     "id": "rogue:roguemobs-0.1.0:0.2.8",
      "name": "roguemobs-0.1.0.jar",
      "type": "FabricMod",
      "required": {
@@ -169,49 +169,49 @@
      }
     },
     {
-     "id": "rogue:roguemotion-0.1.0:0.2.7",
+     "id": "rogue:roguemotion-0.1.0:0.2.8",
      "name": "roguemotion-0.1.0.jar",
      "type": "FabricMod",
      "required": {
       "value": true
      },
      "artifact": {
-      "size": 95918,
-      "MD5": "ab18e02158068bc71984ce1a994fb510",
-      "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/c4cb4309f6-roguemotion-0.1.0.jar",
+      "size": 95984,
+      "MD5": "7b5d28acfbebe6dec10599c3b99db87c",
+      "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/dda8ae9f64-roguemotion-0.1.0.jar",
       "path": "roguemotion-0.1.0.jar"
      }
     },
     {
-     "id": "rogue:roguetopdown-0.1.0:0.2.7",
+     "id": "rogue:roguetopdown-0.1.0:0.2.8",
      "name": "roguetopdown-0.1.0.jar",
      "type": "FabricMod",
      "required": {
       "value": true
      },
      "artifact": {
-      "size": 94261,
-      "MD5": "a2ea5e12e99b06d920c3b94d9330e352",
-      "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/1664ffff6d-roguetopdown-0.1.0.jar",
+      "size": 136871,
+      "MD5": "613415dd3bfed3c98d7f49d4c5b22510",
+      "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/6846033eab-roguetopdown-0.1.0.jar",
       "path": "roguetopdown-0.1.0.jar"
      }
     },
     {
-     "id": "rogue:rogueui-0.1.0:0.2.7",
+     "id": "rogue:rogueui-0.1.0:0.2.8",
      "name": "rogueui-0.1.0.jar",
      "type": "FabricMod",
      "required": {
       "value": true
      },
      "artifact": {
-      "size": 19048061,
-      "MD5": "0f5e8440fd1d33f72389a7dba6a0f2fd",
-      "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/b312d23df6-rogueui-0.1.0.jar",
+      "size": 29787884,
+      "MD5": "e69179f6c49dd52d31dea42ba6455c49",
+      "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/b975f4f2d2-rogueui-0.1.0.jar",
       "path": "rogueui-0.1.0.jar"
      }
     },
     {
-     "id": "rogue:sodium-fabric-0.9.1+mc26.2:0.2.7",
+     "id": "rogue:sodium-fabric-0.9.1+mc26.2:0.2.8",
      "name": "sodium-fabric-0.9.1+mc26.2.jar",
      "type": "FabricMod",
      "required": {
@@ -222,20 +222,6 @@
       "MD5": "12238397e6e067c00369e72999e8d163",
       "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/14f3388694-sodium-fabric-0.9.1_mc26.2.jar",
       "path": "sodium-fabric-0.9.1+mc26.2.jar"
-     }
-    },
-    {
-     "id": "rogue:craftengine-pack:8824a229e3",
-     "name": "CraftEngine 리소스팩",
-     "type": "File",
-     "required": {
-      "value": true
-     },
-     "artifact": {
-      "size": 9437591,
-      "MD5": "5d754a342cfcc97cd9af0f8f8bd8d99c",
-      "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/8824a229e3-resource_pack.zip",
-      "path": "downloads/f6e8800f-ffce-3e36-a8be-e5be152d880b/8824a229e3e52921eafc1a4453e78aae4f12d934"
      }
     }
    ]
