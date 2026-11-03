@@ -1,6 +1,6 @@
 {
  "formatVersion": 1,
- "version": "0.2.22",
+ "version": "0.2.23",
  "minecraft": "26.2",
  "loader": "0.19.3",
  "versionId": "fabric-loader-0.19.3-26.2",
@@ -41,9 +41,9 @@
   },
   {
    "file": "roguemobs-0.1.0.jar",
-   "sha1": "5cb796d683c590c28841061d92abfd9f99dd3e5d",
-   "size": 83646,
-   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/5cb796d683-roguemobs-0.1.0.jar"
+   "sha1": "750c0edaf904da340011125f2848d3c1172d677d",
+   "size": 83998,
+   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/750c0edaf9-roguemobs-0.1.0.jar"
   },
   {
    "file": "roguemotion-0.1.0.jar",
