@@ -1,6 +1,6 @@
 {
  "formatVersion": 1,
- "version": "0.2.30",
+ "version": "0.2.31",
  "minecraft": "26.2",
  "loader": "0.19.3",
  "versionId": "fabric-loader-0.19.3-26.2",
@@ -59,9 +59,9 @@
   },
   {
    "file": "rogueui-0.1.0.jar",
-   "sha1": "8bb0b5701b94718460170721b8ea3cb107e2225b",
-   "size": 52828900,
-   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/8bb0b5701b-rogueui-0.1.0.jar"
+   "sha1": "9749f8f4f953c4e7db42794a791963f277b43c0a",
+   "size": 52829663,
+   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/9749f8f4f9-rogueui-0.1.0.jar"
   },
   {
    "file": "sodium-fabric-0.9.1+mc26.2.jar",
