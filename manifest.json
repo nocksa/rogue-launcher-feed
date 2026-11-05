@@ -1,6 +1,6 @@
 {
  "formatVersion": 1,
- "version": "0.2.31",
+ "version": "0.2.32",
  "minecraft": "26.2",
  "loader": "0.19.3",
  "versionId": "fabric-loader-0.19.3-26.2",
@@ -53,9 +53,9 @@
   },
   {
    "file": "roguetopdown-0.1.0.jar",
-   "sha1": "d62d4af6620b1a1dae03eb040478b365269e04a3",
-   "size": 1686654,
-   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/d62d4af662-roguetopdown-0.1.0.jar"
+   "sha1": "4405c4f5f76f1427362e1760e2990cbea30a629f",
+   "size": 1688237,
+   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/4405c4f5f7-roguetopdown-0.1.0.jar"
   },
   {
    "file": "rogueui-0.1.0.jar",
