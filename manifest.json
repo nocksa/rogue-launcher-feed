@@ -69,5 +69,13 @@
    "size": 1834384,
    "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/14f3388694-sodium-fabric-0.9.1_mc26.2.jar"
   }
+ ],
+ "files": [
+  {
+   "path": "config/roguemobs/models.rmb",
+   "sha1": "bd5bac68e8c655d66ec12a397e116bb7176d1f0c",
+   "size": 2275371,
+   "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/bd5bac68e8-models.rmb"
+  }
  ]
 }
